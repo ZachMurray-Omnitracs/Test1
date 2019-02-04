@@ -13,7 +13,7 @@ public class SeleniumTests1 {
     WebDriver       driver;
     WebDriverWait   driverWait;
     ChromeOptions   chromeOptions = new ChromeOptions()
-//            .addArguments("user-data-dir=%UserProfile%\\AppData\\Local\\Google\\Chrome\\User Data")
+            .addArguments("user-data-dir=%UserProfile%\\AppData\\Local\\Google\\Chrome\\User Data")
             .addArguments("--disable-dev-shm-usage")
             .addArguments("--no-sandbox");
 
