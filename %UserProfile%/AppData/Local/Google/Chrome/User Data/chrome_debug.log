@@ -1,4 +1,0 @@
-[6108:13728:0204/102601.311:INFO:CONSOLE(8)] "SW registered", source: https://www.google.com/_/chrome/newtab?ie=UTF-8 (8)
-[6108:6476:0204/102603.105:WARNING:spdy_session.cc(3144)] Received HEADERS for invalid stream 29
-[6108:6476:0204/102603.146:WARNING:spdy_session.cc(3144)] Received HEADERS for invalid stream 35
-[6108:13728:0204/102603.790:INFO:CONSOLE(0)] "Active resource loading counts reached a per-frame limit while the tab was in background. Network requests will be delayed until a previous loading finishes, or the tab is brought to the foreground. See https://www.chromestatus.com/feature/5527160148197376 for more details", source: https://www.linkedin.com/ (0)
